@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flexbox-1{
+  display: flex;
+  width: 1280px;
+  height: 601px;
+  font-size: 90px;
+  background-color: bisque;
+  position: absolute;
+}
+
+.flexbox-2{
+width: 800px ;
+height: 400px;
+background-color: plum;
+left: 300px;
+margin-top: 180px;
+position: absolute;
+}
