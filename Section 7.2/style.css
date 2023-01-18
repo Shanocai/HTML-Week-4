@@ -1,0 +1,15 @@
+.flex-container{
+left: 10px;
+top: 12px;
+width: 1250px;
+height: 570px;
+border: solid black 3px;
+flex-direction: row;
+display: flex;
+}
+
+.flex-child{
+flex-basis: 300px;
+border: solid green 2px;
+}
+
