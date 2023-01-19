@@ -1,15 +1,79 @@
-.flex-container{
-left: 10px;
-top: 12px;
-width: 1250px;
-height: 570px;
-border: solid black 3px;
+.flex-container1{
+top: 30px;
+left: 250px;
+width: 750px;
+height: 30px;
 flex-direction: row;
 display: flex;
+position: absolute;
 }
 
-.flex-child{
-flex-basis: 300px;
+.flex-container2{
+top: 250px;
+left: 250px;
+width: 750px;
+height: 30px;
+flex-direction: row;
+display: flex;
+position: absolute;
+}
+
+.flex-child1{
+background-color: yellow;
+flex-basis: 220px;
 border: solid green 2px;
 }
 
+.flex-child2{
+background-color: red;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child3{
+background-color: blue;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child4{
+background-color: purple;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child5{
+background-color: yellow;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child6{
+background-color: red;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child7{
+background-color: blue;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child8{
+background-color: purple;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child9{
+background-color: yellow;
+flex-basis: 220px;
+border: solid green 2px;
+}
+
+.flex-child10{
+background-color: red;
+flex-basis: 220px;
+border: solid green 2px;
+}
